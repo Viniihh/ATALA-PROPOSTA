@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Propostas Atala",
+  "description": "Um assistente IA para criar e refinar propostas comerciais para a Atala Serviços, com foco em serviços de manutenção residencial e predial.",
+  "requestFramePermissions": []
+}
